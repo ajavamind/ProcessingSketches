@@ -32,7 +32,7 @@ Projects where I used Processing and saved in a repository are found here:
 # YouTube Videos Created with Processing Code Sketches
 
   
-[Shred Photo Art](https://youtu.be/zT58Xq-SjjI)
+[Shred Photo Art](https://youtu.be/zT58Xq-SjjI)  See code in ShredPhotoFrame folder.
 
 [Shred Photo Art 3D Anaglyph](https://youtu.be/eS2jV-pJ1VI)
 
