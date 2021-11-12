@@ -3,7 +3,7 @@ Saved here are _Processing Sketches_ I wrote for public use, learning and experi
 
 For more about Processing see [Processing.org](https://processing.org/)
 
-# Shred Photo Art
+# Shred Photo Art Simulation
 
 ![First Generated Frame for Shredded Photo Art](ShredPhotoFrame/video/frame001.jpg)
 
@@ -50,7 +50,7 @@ Projects where I used Processing and saved in a Github repository are found here
 
 [3D Art Couture Fashion Exhibit (half width)](https://youtu.be/v7Q8BkmMUdw)
 
-[3D Children Readers Sculpture (Zoom in and out](https://youtu.be/5adfnIxg5yk)
+[3D Children Readers Sculpture (Zoom in and out)](https://youtu.be/5adfnIxg5yk)
 
 [3D Flower Color Blending](https://youtu.be/yEtTXWjYyvc)
 
