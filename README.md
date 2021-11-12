@@ -8,7 +8,7 @@ For more about Processing see [Processing.org](https://processing.org/)
 
 ![Generated Frame for Shredded Photo Art](ShredPhotoFrame/video/frame082.jpg)
 
-[Code is here](https://github.com/ajavamind/ProcessingSketches/tree/main/ShredPhotoFrame)
+[Shred Photo Frame code is here](https://github.com/ajavamind/ProcessingSketches/tree/main/ShredPhotoFrame)
 
 
 # Projects
