@@ -1,18 +1,19 @@
 # Processing Sketches
-Here are a few _Processing Sketches_ I wrote for public use, learning and experimentation.
+Saved here are _Processing Sketches_ I wrote for public use, learning and experimentation.
+
 For more about Processing see [Processing.org](https://processing.org/)
 
 # Shred Photo Art
 
-![Generated Frame for Shredded Photo Art](ShredPhotoFrame/video/frame001.jpg)
+![First Generated Frame for Shredded Photo Art](ShredPhotoFrame/video/frame001.jpg)
 
-![Generated Frame for Shredded Photo Art](ShredPhotoFrame/video/frame082.jpg)
+![Last Generated Frame for Shredded Photo Art](ShredPhotoFrame/video/frame082.jpg)
 
 [Shred Photo Frame code is here](https://github.com/ajavamind/ProcessingSketches/tree/main/ShredPhotoFrame)
 
 
 # Projects
-Projects where I used Processing and saved in a repository are found here:
+Projects where I used Processing and saved in a Github repository are found here:
 
 [Control multiple Samsung NX cameras with telnet commands](https://github.com/ajavamind/Multi-NX-Camera-Control)
 
