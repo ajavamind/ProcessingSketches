@@ -5,9 +5,9 @@ For more about Processing see [Processing.org](https://processing.org/)
 
 # Shred Photo Art Simulation
 
-![First Generated Frame for Shredded Photo Art](ShredPhotoFrame/video/frame001.jpg)
+![First Generated Frame for Shredded Photo Art](ShredPhotoFrame/screenshot/frame001_resize.jpg)
 
-![Last Generated Frame for Shredded Photo Art](ShredPhotoFrame/video/frame082.jpg)
+![Last Generated Frame for Shredded Photo Art](ShredPhotoFrame/screenshot/frame082_resize.jpg)
 
 [Shred Photo Frame code is here](https://github.com/ajavamind/ProcessingSketches/tree/main/ShredPhotoFrame)
 
