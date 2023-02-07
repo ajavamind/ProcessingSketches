@@ -1,3 +1,7 @@
+// Example from OpenCV for Processing Library, LiveCam Test
+// runs with SDK 4.1.2
+// Modified by Andy Modla to add 2nd webcam
+
 import gab.opencv.*;
 import processing.video.*;
 import java.awt.*;

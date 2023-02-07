@@ -1,3 +1,6 @@
+// Example from OpenCV for Processing Library
+// runs with SDK 4.1.2
+
 import gab.opencv.*;
 import org.opencv.core.Mat;
 import org.opencv.calib3d.StereoBM;

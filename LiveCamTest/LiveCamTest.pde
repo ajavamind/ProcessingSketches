@@ -1,3 +1,6 @@
+// Example from OpenCV for Processing Library
+// runs with SDK 4.1.2
+
 import gab.opencv.*;
 import processing.video.*;
 import java.awt.*;
